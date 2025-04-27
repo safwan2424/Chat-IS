@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ChatUI\\ChatUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|f:\\chatui\\chatui\\chatui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\view\\messagebubble.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\view\\messagebubble.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\core\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\core\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\model\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\model\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\model\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\model\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\themes\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\themes\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ChatUI\\ChatUI\\ChatUI\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatUI\\obj\\Debug\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\themes\\chatitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\themes\\chatitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\themes\\stylishscrollbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\themes\\stylishscrollbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\themes\\contactcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\themes\\contactcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|F:\\ChatUI\\ChatUI\\chatui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F578C8F-E8FA-4478-B575-B6B3221E8DF5}|ChatUI\\ChatUI.csproj|solutionrelative:chatui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Model\\MessageModel.cs",
+              "RelativeDocumentMoniker": "ChatUI\\Model\\MessageModel.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Model\\MessageModel.cs",
+              "RelativeToolTip": "ChatUI\\Model\\MessageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:42:07.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\MainWindow.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChatUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T05:25:01.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ChatUI\\Core\\RelayCommand.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "ChatUI\\Core\\RelayCommand.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:41:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "ChatUI\\Core\\ObservableObject.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "ChatUI\\Core\\ObservableObject.cs",
+              "ViewState": "AgIAAAIAAADA//////8QwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:37:01.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Model\\ContactModel.cs",
+              "RelativeDocumentMoniker": "ChatUI\\Model\\ContactModel.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Model\\ContactModel.cs",
+              "RelativeToolTip": "ChatUI\\Model\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:40:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\Converters.cs",
+              "RelativeDocumentMoniker": "ChatUI\\Core\\Converters.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Core\\Converters.cs",
+              "RelativeToolTip": "ChatUI\\Core\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:22:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageBubble.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\View\\MessageBubble.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\View\\MessageBubble.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\View\\MessageBubble.xaml",
+              "RelativeToolTip": "ChatUI\\View\\MessageBubble.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T21:22:09.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ChatUI\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ChatUI\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAQAAAIAWwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:29:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\App.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\App.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\App.xaml",
+              "RelativeToolTip": "ChatUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T06:37:57.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageBox.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\MessageBox.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\Themes\\MessageBox.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\MessageBox.xaml",
+              "RelativeToolTip": "ChatUI\\Themes\\MessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:59:10.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\obj\\Debug\\App.g.cs",
+              "RelativeDocumentMoniker": "ChatUI\\obj\\Debug\\App.g.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\obj\\Debug\\App.g.cs",
+              "RelativeToolTip": "ChatUI\\obj\\Debug\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:30:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ChatUI\\App.xaml.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\App.xaml.cs",
+              "RelativeToolTip": "ChatUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:27:40.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StylishScrollBar.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\StylishScrollBar.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\Themes\\StylishScrollBar.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\StylishScrollBar.xaml",
+              "RelativeToolTip": "ChatUI\\Themes\\StylishScrollBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T12:01:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatItem.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\ChatItem.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\Themes\\ChatItem.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\ChatItem.xaml",
+              "RelativeToolTip": "ChatUI\\Themes\\ChatItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:21:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactCard.xaml",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\ContactCard.xaml",
+              "RelativeDocumentMoniker": "ChatUI\\Themes\\ContactCard.xaml",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\Themes\\ContactCard.xaml",
+              "RelativeToolTip": "ChatUI\\Themes\\ContactCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T06:32:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\ChatUI\\ChatUI\\ChatUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatUI\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\ChatUI\\ChatUI\\ChatUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wDYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:24:55.035Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
